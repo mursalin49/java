@@ -49,7 +49,7 @@ class Teacher implements People {
 
 class Main_People {
     public static void main(String[] args) {
-        People student = new Student("Hridoy Ahmed", "Shajib");
+        People student = new Student("Nirob", "hasan");
         People teacher = new Teacher("Humayra", "Ferdous");
 
         student.displayName();
